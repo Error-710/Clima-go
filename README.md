@@ -23,7 +23,7 @@ O **ClimaGO** é um aplicativo web que consome a **API OpenWeatherMap** para mos
 ##  **Tecnologias Usadas**  
 - **Frontend**: HTML5, CSS3 e JavaScript puro  
 - **API**: [OpenWeatherMap](https://openweathermap.org/) (dados em tempo real)  
-- **Ícones**: [Font Awesome](https://fontawesome.com/) (para ícones de clima)  
+ 
 
 ---
 
